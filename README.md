@@ -2,7 +2,6 @@
 Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
 De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Plantswap
 ![image](https://github.com/TimOosterveer/buurtcampus_oost_components/assets/112857270/63507a17-2858-4b15-a209-06753fa6b40d)
 
 <h2 align="center">✨ About ✨ </h2>
