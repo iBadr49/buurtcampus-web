@@ -1,19 +1,16 @@
-> _Fork_ deze leertaak en ga aan de slag. 
-Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
-De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
 ![image](https://github.com/TimOosterveer/buurtcampus_oost_components/assets/112857270/63507a17-2858-4b15-a209-06753fa6b40d)
 
-<h2 align="center">✨ About ✨ </h2>
+<h2>✨ About ✨ </h2>
 We've cultivated an amazing plant swap website for Stekjesbieb! 🌿 Visitors can explore various plants here and dive deeper into the plantswap initiative. We've added a touch of charm to make the experience even more delightful! ✨🌱
 
-<h2 align="center"> 🍀 The Website 🍀</h2>
+<h2> 🍀 The Website 🍀</h2>
 For the Stekjesbieb, we have developed an amazing plant swap website. 🌿
 Visitors can explore plants and learn more about the plant swap initiative. Upon visiting our website, you'll be greeted with an informative homepage. Here, we explain what plant swapping is and how you can participate in this initiative yourself. Furthermore, you can view all available cuttings on the website and find detailed information about each cutting on the individual detail page. 🌱
 <br> <br>
 Additionally, Stekjesbieb offers workshops where you can learn the best practices for caring for your cuttings. 🌸 These workshops can also be found on our website. Finally, on our contact page, you can find all the information about our location and the possibility to get in touch with us. 📌
 
-<h2 align="center">🪚Languages-Frameworks-Tools🪚</h2>
+<h2>🪚 Languages-Frameworks-Tools 🪚</h2>
 These are the tools, frameworks, and languages that were used to create this project. 💡
 <div>
  <br>
@@ -21,7 +18,7 @@ These are the tools, frameworks, and languages that were used to create this pro
     <img src="https://skillicons.dev/icons?i=vscode,svelte,figma">
 </div>
 
-<h2 align="center"> 🔨 Instalation guide 🔨</h2>
+<h2> 🔨 Instalation guide 🔨</h2>
 
 1. **Fork this repository.**
 
